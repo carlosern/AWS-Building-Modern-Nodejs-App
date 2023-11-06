@@ -10,5 +10,5 @@ tasks:
       cd $THEIA_WORKSPACE_ROOT
       
   - name: variables
-    before: |
-      export MYBUCKET=carlosern-dragons-app
+    env: 
+      MYBUCKET: carlosern-dragons-app
