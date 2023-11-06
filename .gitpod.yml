@@ -9,3 +9,6 @@ tasks:
       sudo ./aws/install
       cd $THEIA_WORKSPACE_ROOT
       
+  - name: variables
+    before: |
+      export MYBUCKET=carlosern-dragons-app
