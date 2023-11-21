@@ -1,0 +1,4 @@
+/node-dragons-lambda/AddDragon/node_modules
+/node-dragons-lambda/ListDragons/node_modules
+/node-dragons-lambda/ValidateDragon/node_modules
+*.zip
